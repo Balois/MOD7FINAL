@@ -1,0 +1,48 @@
+{
+  "areas": [
+    {
+      "nombrearea": "Administrativa",
+      "encargado": "Lic Victor Cejas",
+      "funcionario": 15,
+      "id": 1
+    },
+    {
+      "nombrearea": "Tecnica",
+      "encargado": "Ing. Raul Pinto",
+      "funcionario": 7,
+      "id": 2
+    },
+    {
+      "nombrearea": "Supervision",
+      "encargado": "Ricardo Salamanca",
+      "funcionario": "4",
+      "id": 3
+    }
+  ],
+  "bienesactivos": [
+    {
+      "id": 1,
+      "tipoactivo": "COMPUTADORA",
+      "marca": "HP",
+      "modelo": "HP Pavilion",
+      "estado": "Nuevo",
+      "areaId": 1
+    },
+    {
+      "id": 2,
+      "tipoactivo": "COMPUTADORA",
+      "marca": "DELL",
+      "modelo": "DELL Inspiron",
+      "estado": "Nuevo",
+      "areaId": 2
+    },
+    {
+      "id": 1,
+      "tipoactivo": "VEHICULOS",
+      "marca": "TOYOTA",
+      "modelo": "Hilux",
+      "estado": "Regular",
+      "areaId": 2
+    }
+  ]
+}
